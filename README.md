@@ -10,13 +10,13 @@ This repository contains the full code for our project on **A Multi-Scale System
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository contains the source code and computational models associated with our study on the interaction between **$\beta$-Sesquiphellandrene** (a key bioactive from *Aframomum melegueta*) and TLR4/MD-2 signaling in the context of LPS-induced neuroinflammation.
 
 By bridging **Molecular Dynamics (MD)** simulations with a **Systems Pharmacology ODE model**, we demonstrate that $\beta$-sesquiphellandrene functions as a competitive lipid mimic. It occupies the hydrophobic pocket of the TLR4-MD2 complex via steric occlusion, silencing the downstream NF-$\kappa$B cascade and driving a supranormal "synaptic rebound" (128% of baseline).
 
-## 🚀 Quick Start
+## Quick Start
 
 The core computational model and figure generation scripts are available as a Jupyter Notebook. You can run the analysis directly in your browser using Google Colab:
 
@@ -37,3 +37,8 @@ The core computational model and figure generation scripts are available as a Ju
 │   └── AME_MDsimulation.ipynb      # Main Analysis Code (Colab-compatible)
 │
 └── README.md
+```
+## Citation
+
+If you use this code, or model, or our md simulation dataset in your research, please cite our publication, dataset, and this code on Zenodo:
+[Author Names]. (2026). Integrated In Vivo and In Silico Analysis Reveals _Aframomum Melegueta_ Neuroprotection Against LPS-Induced Memory Impairment Through TLR4/MD-2 Modulation. [Journal Name to be updated soon]. DOI: [will be updated soon]
