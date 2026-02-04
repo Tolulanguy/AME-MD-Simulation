@@ -6,7 +6,7 @@ This repository contains the full code for our project on **A Multi-Scale System
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18468770.svg)](https://doi.org/10.5281/zenodo.18468770)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **Publication:** **Integrated In Vivo and In Silico Analysis Reveals _Aframomum Melegueta_ Neuroprotection Against LPS-Induced Memory Impairment Through TLR4/MD-2 Modulation**
+> **Publication:** Integrated In Vivo and In Silico Analysis Reveals _Aframomum Melegueta_ Neuroprotection Against LPS-Induced Memory Impairment Through TLR4/MD-2 Modulation.
 
 ---
 
