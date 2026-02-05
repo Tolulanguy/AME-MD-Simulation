@@ -1,4 +1,4 @@
-# Molecular Dynamics (MD) Simulation for TLR4-MD2 Complex by $\beta$-Sesquiphellandrene
+# Molecular Dynamics (MD) Simulation of TLR4/MD-2 Complex with $\beta$-Sesquiphellandrene
 
 This repository contains the full code for our project on **A Multi-Scale Systems Neuropharmacology Framework** integrating molecular dynamics simulations with mechanistic differential equation modeling to elucidate the neuroprotective mechanism of _Aframomum melegueta_.
 
